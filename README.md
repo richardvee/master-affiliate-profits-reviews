@@ -16,9 +16,9 @@ The header contains your main navigation and logo. To update:
 1. **Logo Text:**
 ```html
 <!-- Find this line in the header section -->
-<a href="#" class="text-xl font-bold bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent">MAP Review</a>
+<a href="#" class="text-xl font-bold bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent">Master Affiliate Profits Reviews</a>
 ```
-Simply replace "Master Affiliate Profits" with your desired text.
+Simply replace "Master Affiliate Profits Reviews" with your desired text.
 
 2. **Navigation Menu Items:**
 ```html
